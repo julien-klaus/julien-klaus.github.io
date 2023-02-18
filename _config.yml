@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Julien Klaus"
+title                    : "Dr. Julien Klaus"
 title_separator          : "-"
 name                     : &name "Dr. Julien Klaus"
 description              : &description "blog and website"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dr. Julien Klaus"
   avatar           : "profile.png"
-  bio              : # "Your biography for the left-hand sidebar"
-  location         : 
+  bio              : "Researcher at the University of Jena"
+  location         : "Jena, Germany"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cY_fvjsAAAAJ"
-  email            :
+  email            : julienklaus@acm.org
   researchgate     : 
   uri              :
   bitbucket        :
