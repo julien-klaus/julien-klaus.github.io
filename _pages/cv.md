@@ -12,7 +12,7 @@ redirect_from:
 Work experience
 ======
 * Since 2016: __Researcher__ at the Friedrich Schiller University of Jena
-  * Research Areas
+  * Research areas
     - Automatic vectorization of linear algebra expressions https://lina.ti2.uni-jena.de
     - Convexity certification http://convcert.pythonanywhere.com
     - Tensor visualization
@@ -28,7 +28,7 @@ Work experience
   * Organization and execution of the preliminary course in computer science
   * Organization of a learning café for junior students
 
-* 2011 - 2012: Research Assistant at the University Hospital Jena (Center for radiology)
+* 2011 - 2012: __Research Assistant__ at the University Hospital Jena (Center for radiology)
   * Collaboration on a MediaWiki software package
     - Administration of a MediaWiki
     - Configuration of additionally installed extensions
