@@ -46,7 +46,7 @@ Education
   
 Skills
 ======
-* Python (advanced), Java (intermediate), SQL (intermediate), C (beginner),
+* Python (advanced), Java (intermediate), SQL (intermediate), C/C++ (beginner),
 * Machine learning, Probabilistic modeling, 
 * Android development,
 * Latex, TikZ, MS Office,
