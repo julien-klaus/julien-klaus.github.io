@@ -46,10 +46,10 @@ Education
   
 Skills
 ======
-* Python (+8 years), Java (2 years), SQL (2 years), C (1 year),
+* Python (advanced), Java (intermediate), SQL (intermediate), C (beginner),
 * Machine learning, Probabilistic modeling, 
 * Android development,
-* Latex (+10 years), TikZ, MS Office,
+* Latex, TikZ, MS Office,
 * Algorithm design, Compiler construction,
 * Graphic design
 
