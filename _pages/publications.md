@@ -11,6 +11,7 @@ author_profile: true
 
 2022
 ====
+
 Convexity Certificates from Hessians
 -----
 Conference on Neural Information Processing Systems (NeurIPS 2022), Klaus et al.
@@ -25,12 +26,14 @@ Proceedings of the Conference on Innovative Data Systems Research (CIDR), Blache
 
 2020
 ====
+
 Fast Entity Resolution With Mock Labels and Sorted Integer Sets
 -----
 2020 Proceedings of the 2nd International Workshop on Challenges and Experiences from Data Integration to Knowledge Graphs, Blacher et al.
 
 2019
 ====
+
 Visualization Support for Developing a Matrix Calculus Algorithm: A Case Study
 -----
 2019 Computer Graphics Forum, Giesen et al.
@@ -41,6 +44,7 @@ Automatical Rendering of Tensor Expressions
 
 Before 2017 
 ====
+
 Vectorizing Mathematical Expressions
 -----
 2017 19. Colloquium Programming Languages and Fundamentals of Programming, Klaus
