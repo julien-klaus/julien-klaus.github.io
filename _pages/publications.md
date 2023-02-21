@@ -9,46 +9,38 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-2022
-====
-
-Convexity Certificates from Hessians
+Convexity Certificates from Hessians (2022)
 -----
-Conference on Neural Information Processing Systems (NeurIPS 2022), Klaus et al.
+__Klaus__, Merk, Wiedom, Laue, Giesen in _Conference on Neural Information Processing Systems (NeurIPS 2022)_
 
-Compiling Linear Algebra Expressions into Efficient Code
+Visualizing, Analyzing and Transforming Tensor Expressions (2022)
 -----
-Proceedings of the 22nd International Conference on Computational Science (ICCS), Klaus et al.
+__Klaus__ (Dissertation)
 
-Machine Learning, Linear Algebra, and More: Is SQL All You Need?
+Compiling Linear Algebra Expressions into Efficient Code (2022)
 -----
-Proceedings of the Conference on Innovative Data Systems Research (CIDR), Blacher et al.
+__Klaus__, Blacher, Giesen, Rump, Wiedom in _Proceedings of the 22nd International Conference on Computational Science (ICCS)_
 
-2020
-====
-
-Fast Entity Resolution With Mock Labels and Sorted Integer Sets
+Machine Learning, Linear Algebra, and More: Is SQL All You Need? (2022)
 -----
-2020 Proceedings of the 2nd International Workshop on Challenges and Experiences from Data Integration to Knowledge Graphs, Blacher et al.
+Blacher, Giesen, Laue, __Klaus__, Leis in _Proceedings of the Conference on Innovative Data Systems Research (CIDR)_
 
-2019
-====
-
-Visualization Support for Developing a Matrix Calculus Algorithm: A Case Study
+Fast Entity Resolution With Mock Labels and Sorted Integer Sets (2020)
 -----
-2019 Computer Graphics Forum, Giesen et al.
+Blacher, Giesen, Laue, __Klaus__, Giesen in _Proceedings of the 2nd International Workshop on Challenges and Experiences from Data Integration to Knowledge Graphs_
 
-Automatical Rendering of Tensor Expressions
+Visualization Support for Developing a Matrix Calculus Algorithm: A Case Study (2019)
 -----
-2019 Indo-German Spring School on Algorithms for Big Data, Klaus
+Giesen, __Klaus__, Laue, Schreck in _Computer Graphics Forum 38 (3)_
 
-Before 2017 
-====
-
-Vectorizing Mathematical Expressions
+Automatical Rendering of Tensor Expressions (2019)
 -----
-2017 19. Colloquium Programming Languages and Fundamentals of Programming, Klaus
+__Klaus__ during _Indo-German Spring School on Algorithms for Big Data_
 
-Establishment of a web-based quality management system in radiology
+Vectorizing Mathematical Expressions (2017)
 -----
-2012 RöFo - Advances in the field of X-rays and imaging techniques, Güttler et al.
+ Giesen, __Klau__, Laue in _19. Colloquium Programming Languages and Fundamentals of Programming_
+
+Establishment of a web-based quality management system in radiology (2012)
+-----
+Güttler, Ipczynski, __Klaus__, Heinrich, de Bucourt, Tiechgräber in _2012 RöFo - Advances in the field of X-rays and imaging techniques_
