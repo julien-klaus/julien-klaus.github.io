@@ -12,7 +12,7 @@ redirect_from:
 Work experience
 ======
 * Since 2016: __Researcher__ at the Friedrich Schiller University of Jena
-  * Research areas (see [Publications](/publications) for more information)
+  * Research areas (see [Publications](/publications) and [Projects](/projects) for more information)
     - Automatic vectorization of linear algebra expressions 
     - Convexity certification 
     - Tensor visualization
@@ -46,7 +46,7 @@ Education
 
 Skills
 ======
-* Python (advanced), Cython(beginner), Java (intermediate), SQL (intermediate), C/C++ (beginner),
+* Python (advanced), Cython (beginner), Java (intermediate), SQL (intermediate), C/C++ (beginner),
 * Machine learning, Probabilistic modeling, 
 * Android development,
 * Latex, TikZ, MS Office,
