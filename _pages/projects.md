@@ -6,5 +6,12 @@ permalink: /projects/
 author_profile: true
 ---
 
+Data Science Day Jena
+----
+
+
 Sommercamp Informatik Jena
 ----
+
+
+
