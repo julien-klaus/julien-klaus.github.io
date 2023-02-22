@@ -23,7 +23,7 @@ Work experience
   * Planning and execution of the Data Science Day Jena
   [www.fmi.uni-jena.de/dsdj](www.fmi.uni-jena.de/dsdj)
   * __Head__ of the summer camp for computer science in Jena [www.sommercamp.uni-jena.de](www.sommercamp.uni-jena.de)
-  * __Co-organizer__ of the MINT Festival Jena 2019 www.mint.uni-jena.de
+  * __Co-organizer__ of the MINT Festival Jena 2019 [www.mint.uni-jena.de](www.mint.uni-jena.de)
   * 2019-2022 __Elected member__ of the faculty council
   * Design and construction of the faculty website [www.fmi.uni-jena.de](www.fmi.uni-jena.de)
   * Organization and execution__ of the preliminary course in computer science
@@ -65,6 +65,7 @@ Certificates and further education
 Other activities and awards
 ======
 * Since 2020 __Chairman__ of the Friends of the Institute for Computer Science at the University of Jena ([www.fifi.uni-jena.de](www.fifi.uni-jena.de))
+* Seince 2017 __Juror__ for Jugend Forscht in the state competition in Thuringia
 * 2020 ACM Special Interest Group on Management of Data SIGMOD 2020 (Programming Contest Winner)
 * 2019 - 2021 __Elected head__ of the council of doctoral students of the Friedrich Schiller University Jena
 * Since 2018 __Member__ of Rotaract Club Jena
