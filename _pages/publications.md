@@ -11,11 +11,11 @@ author_profile: true
 
 Compiling Tensor Expressions into Einsum (2023)
 -----
-__Klaus__, Blacher, Giesen
+__Klaus__, Blacher, Giesen _in 23nd International Conference on Computational Science (ICCS)_
 
 Efficient and Portable Einstein Summation in SQL (2023)
 -----
-Blacher, __Klaus__, Staudt, Laue, Leis, Giesen
+Blacher, __Klaus__, Staudt, Laue, Leis, Giesen _in SIGMOD '23: International Conference on Management of Data_
 
 Convexity Certificates from Hessians (2022)
 -----
