@@ -12,11 +12,10 @@ redirect_from:
 Work experience
 ======
 * Since 2016: __Researcher__ at the Friedrich Schiller University of Jena
-  * Research areas (see [Publications](/publications) and [Projects](/projects) for more information)
+  * Research areas (see [Publications](/publications) for more information)
     - Automatic vectorization of linear algebra expressions 
     - Convexity certification 
-    - Tensor visualization
-    - Tensor contraction (`einsum`)
+    - Tensor algorithms and visualization
     - SQL algorithms 
     - Inference on probabilistic models
     - Automatic code generation
@@ -65,7 +64,7 @@ Certificates and further education
 Other activities and awards
 ======
 * Since 2020 __Chairman__ of the Friends of the Institute for Computer Science at the University of Jena ([www.fifi.uni-jena.de](www.fifi.uni-jena.de))
-* Seince 2017 __Juror__ for Jugend Forscht in the state competition in Thuringia
+* Since 2017 __Juror__ for Jugend Forscht in the state competition in Thuringia
 * 2020 ACM Special Interest Group on Management of Data SIGMOD 2020 (Programming Contest Winner)
 * 2019 - 2021 __Elected head__ of the council of doctoral students of the Friedrich Schiller University Jena
 * Since 2018 __Member__ of Rotaract Club Jena
