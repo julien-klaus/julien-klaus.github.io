@@ -9,6 +9,14 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+Compiling Tensor Expressions into Einsum (2023)
+-----
+__Klaus__, Blacher, Giesen
+
+Efficient and Portable Einstein Summation in SQL (2023)
+-----
+Blacher, __Klaus__, Staudt, Laue, Leis, Giesen
+
 Convexity Certificates from Hessians (2022)
 -----
 __Klaus__, Merk, Wiedom, Laue, Giesen in _Conference on Neural Information Processing Systems (NeurIPS 2022)_
