@@ -11,7 +11,7 @@ author_profile: true
 
 Compiling Tensor Expressions into Einsum (2023)
 -----
-__Klaus__, Blacher, Giesen _in 23nd International Conference on Computational Science (ICCS)_
+__Klaus__, Blacher, Giesen _in 23rd International Conference on Computational Science (ICCS)_
 
 Efficient and Portable Einstein Summation in SQL (2023)
 -----
