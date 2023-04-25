@@ -40,6 +40,6 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.highlight {
+div.highlighter-rouge .highlight,figure.highlight .highlight {
     font-size: .9em;
 }
