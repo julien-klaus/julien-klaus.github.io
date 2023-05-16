@@ -1,6 +1,6 @@
 ---
 title: 'MIT App Inventor Workshop 2023'
-date: 2023-05-o4
+date: 2023-05-04
 permalink: /posts/2023/05/mitappinventor
 tags:
   - workshop
