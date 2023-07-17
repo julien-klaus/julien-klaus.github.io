@@ -10,7 +10,7 @@ redirect_from:
 
 # About me
 
-I'm a theoretical computer scientist, compiler builder and great organizer who loves to transform things in Python, organize events or just travel and discover new things.
+I'm a theoretical computer scientist, compiler builder and great organizer who loves to transform things in Python, think about algorithms, organize events or just travel and discover new things.
 
 
 # Blog posts
