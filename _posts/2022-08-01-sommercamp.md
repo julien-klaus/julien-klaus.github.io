@@ -6,7 +6,7 @@ tags:
   - tutorial
   - android
 ---
-Since 2014 I am part of the computer science summer camp in Jena. And all the time I have worked with the Android Studio, creating Android apps. Although the camp is the only time in the year I am creating apps, I have gained some experience. The most complicated app I have developed is a game, since you have to deal with different Activities and a Game-Loop. In this game you have to click a bit. This Bit occurs after a random time. At the end the game is kind of a reaction test. All source files and the images for the background, vit and the catcher can be found at https://github.com/julien-klaus/Simple-Android-Reaction-Game. 
+Since 2014 I am part of the computer science summer camp in Jena. And all the time I have worked with the Android Studio, creating Android apps. Although the camp is the only time in the year I am creating apps, I have gained some experience. The most complicated app I have developed is a game, since you have to deal with different Activities and a Game-Loop. In this game you have to click a bit. This Bit occurs after a random time. At the end the game is kind of a reaction test. All source files and the images for the background, vit and the catcher can be found at [GitHub](https://github.com/julien-klaus/Simple-Android-Reaction-Game). 
 
 To create the app you first need a `MainActivity`.
 
