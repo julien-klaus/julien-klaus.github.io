@@ -27,6 +27,11 @@ Work experience
   * Organization and execution of the preliminary course in computer science
   * 2020 - 2022: Organization of a learning café for junior students
 
+* 2013 - 2016: __Research assistent__ at the Friedrich Schiller University Jena
+    * Supervision of programming exercises
+    * Conception and implementation of a universal tutorial
+    * Supervision of students
+
 * 2011 - 2012: __Research Assistant__ at the University Hospital Jena (Center for radiology)
   * Collaboration on a MediaWiki software package
     - Administration of a MediaWiki
@@ -53,10 +58,10 @@ Skills
 
 Publications
 ======
-* J. Klaus, M. Blacher, J. Giesen. __Compiling Tensor Expressions into Einsum.__ *Proceedings of the 23d International Conference on Computational Science (ICCS)*, 2023 ([Paper](https://link.springer.com/chapter/10.1007/978-3-031-36021-3_10), [Poster](images/poster/ICCS2023))
-* M. Blacher, J. Giesen, J. Klaus, C. Staudt, S. Laue, and V. Leis. __Efficient and Portable Einstein Summation in SQL.__ *Proceedings of the 49th ACM SIGMOD Conference on Management of Data (SIGMOD)*, 2023 ([Paper](https://dl.acm.org/doi/10.1145/3589266), [Poster](images/poster/SIGMOD2023))
+* J. Klaus, M. Blacher, J. Giesen. __Compiling Tensor Expressions into Einsum.__ *Proceedings of the 23d International Conference on Computational Science (ICCS)*, 2023 ([Paper](https://link.springer.com/chapter/10.1007/978-3-031-36021-3_10), [Poster](/images/poster/ICCS2023))
+* M. Blacher, J. Giesen, J. Klaus, C. Staudt, S. Laue, and V. Leis. __Efficient and Portable Einstein Summation in SQL.__ *Proceedings of the 49th ACM SIGMOD Conference on Management of Data (SIGMOD)*, 2023 ([Paper](https://dl.acm.org/doi/10.1145/3589266), [Poster](/images/poster/SIGMOD2023))
 * J. Klaus, M. Blacher, A. Goral, P. Lucas, J. Giesen. __A visual analytics workflow for probabilistic modeling.__ *Visual Informatics, Vol. 7* ([Paper](https://www.sciencedirect.com/science/article/pii/S2468502X23000153))
-* J. Klaus, K. Wiedom,  N. Merk, S. Laue and J. Giesen. __Convexity Certificates from Hessians.__ *Proceedings of the 36th Conference on Neural Information Processing Systems (NeurIPS)*, 2022 ([Paper](https://arxiv.org/abs/2210.10430), [Poster](images/poster/NeurIPS2022))
+* J. Klaus, K. Wiedom,  N. Merk, S. Laue and J. Giesen. __Convexity Certificates from Hessians.__ *Proceedings of the 36th Conference on Neural Information Processing Systems (NeurIPS)*, 2022 ([Paper](https://arxiv.org/abs/2210.10430), [Poster](/images/poster/NeurIPS2022))
 * J. Klaus, M. Blacher, J. Giesen, P. Rump and K. Wiedom.
 __Compiling Linear Algebra Expressions into Efficient Code.__ *Proceedings of the 22nd International Conference on Computational Science (ICCS)*, 2022 ([Paper](https://www.iccs-meeting.org/archive/iccs2022/papers/133510008.pdfExternal))
 * M. Blacher, J. Giesen, S. Laue, J. Klaus, M. Mitterreiter.
