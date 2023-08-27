@@ -14,6 +14,12 @@ redirect_from:
   {% if year != written_year %}
     <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
     {% capture written_year %}{{ year }}{% endcapture %}
+    {% assign post_counter = 0 %}
   {% endif %}
-  {% include archive-single.html %}
+  
+  {% if post_counter < 3 %}
+    {% include archive-single.html %}
+    {% assign post_counter = post_counter | plus: 1 %}
+  {% endif %}
+  
 {% endfor %}
